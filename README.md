@@ -1,8 +1,9 @@
 # Kwang Yeon Lee - Google Cyber Security Portfolio
 ![Certificate of completion for Google Cybersecurity Professional Certificate for Kwang Yeon Lee](./General/Certificate.png)
 Certificate:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cce3259b-2e5e-46af-994f-fb005f82dec3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> alt="View certificate for Kwang Yeon Lee, Google Cybersecurity. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cce3259b-2e5e-46af-994f-fb005f82dec3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+alt="View certificate for Kwang Yeon Lee, Google Cybersecurity. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."
+<br>
 You can view my certificate of completion on (https://www.coursera.org/account/accomplishments/specialization/PYBFLRLSDJJX).
 
 Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
@@ -22,7 +23,6 @@ It also taught me technical skills with:
   * Network protocol analyzers (Wireshark and tcpdump)
   * IDS/IPS tools
   * Firewalls
-  * 
 <br>
 And I was able to develop even further in the following skills:
 
