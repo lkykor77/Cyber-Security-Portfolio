@@ -9,6 +9,7 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization.*** 
 
+
 This course covered many conceptual topics such as:
   * Risk management
   * Threat analysis
@@ -20,9 +21,8 @@ It also taught me technical skills with:
   * Network protocol analyzers (Wireshark and tcpdump)
   * IDS/IPS tools
   * Firewalls
-<br>
-And I was able to develop even further in the following skills:
 
+And I was able to develop even further in the following skills:
 <li>Python</li>
 <li>SQL</li>
 <li>Linux</li>
