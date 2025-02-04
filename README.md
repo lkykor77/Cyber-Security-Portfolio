@@ -1,8 +1,10 @@
 # Kwang Yeon Lee - Google Cyber Security Portfolio
 ![Certificate of completion for Google Cybersecurity Professional Certificate for Kwang Yeon Lee](./certificate.png)
+
 <br>
 You can view my certificate of completion on (https://www.coursera.org/account/accomplishments/specialization/PYBFLRLSDJJX).
 <br>
+
 Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
 
 They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
@@ -27,7 +29,6 @@ And I was able to develop even further in the following skills:
 <li>SQL</li>
 <li>Linux</li>
 <br>
-
 
 <h2>Contents:</h2>
 
