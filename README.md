@@ -53,11 +53,6 @@ Connect and Protect: Networks and Network Security - ✔️
 Tools of the Trade: Linux & SQL - ✔️
   <li>Manage File Permissions Linux</li>
   <li>Apply Filters to SQL Queries</li>
-  
-<br>
-
-Assets, Threats, and Vulnerabilities - ✔️
-  <li>Analyze a Vulnerable System for a Small Business</li>
 
 <br>
 
