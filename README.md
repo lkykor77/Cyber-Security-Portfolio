@@ -33,7 +33,8 @@ And I was able to develop even further in the following skills:
 <br>
 
 Play It Safe: Manage Security Risks - ✔️
-  <li>Botium Toys Audit</li>
+  <li>Risk Assessment & Vulnerability Assessment of financial institution</li>
+  <li>Security Audit</li>
   <li>Compliance Checklist</li>
   <li>Controls Assesment Checklist/Priority</li>
   <li>Stakeholders Memorandum</li>
@@ -61,7 +62,6 @@ Assets, Threats, and Vulnerabilities - ✔️
 <br>
 
 Sound the Alarm: Detection and Response - ✔️
-<li>Document Incident Handler's Journal (with template)</li>
 <li>Finalize Incident Handler's Journal</li>
 
 <br>
