@@ -15,7 +15,7 @@ This course covered many conceptual topics such as:
   * Incident response
 
 It also taught me technical skills with:
-  * SIEM tools (Splunk and Chronicle)
+  * SIEM tools (Splunk)
   * Network protocol analyzers (Wireshark and tcpdump)
   * IDS/IPS tools
   * Firewalls
