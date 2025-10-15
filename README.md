@@ -1,4 +1,4 @@
-# Kwang Yeon Lee - Google Cyber Security Portfolio
+# Kwang Yeon Lee - Cyber Security Portfolio
 ![Certificate of completion for Google Cybersecurity Professional Certificate for Kwang Yeon Lee](./certificate.png)
 Certificate for Kwang Yeon Lee, Google Cybersecurity. (https://www.coursera.org/account/accomplishments/specialization/PYBFLRLSDJJX).
 
