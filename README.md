@@ -22,7 +22,6 @@ It also taught me technical skills with:
 
 And I was able to develop even further in the following skills:
 <li>Python</li>
-<li>SQL</li>
 <li>Linux</li>
 <br>
 
