@@ -47,9 +47,8 @@ Connect and Protect: Networks and Network Security - ✔️
   
 <br>
 
-Tools of the Trade: Linux & SQL - ✔️
+Tools of the Trade: Linux - ✔️
   <li>Manage File Permissions Linux</li>
-  <li>Apply Filters to SQL Queries</li>
 
 <br>
 
